@@ -1,12 +1,7 @@
-<h2>Developed by</h2>
-
-   <h4>&nbsp;&nbsp;&nbsp;&nbsp; Arpita Waghmare
-  
-   &nbsp;&nbsp;&nbsp;&nbsp; Aditi Himpalnerkar</h4>
-    
+#<h2><b>Hotel Billing and Income Tracker</b></h2>
        
 
-<h2><b>Hotel Billing and Income Tracker</b></h2>
+
 Hotel billing system is created to capture the bill record of customers to come up with a total amount to be paid by the customer.The information is saved                             to a database to enable management or users to calculate the income of specific date.The aim of this system is to develop a billing system for hotel                               industry.
 
 
