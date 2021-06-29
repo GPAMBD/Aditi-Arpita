@@ -1,4 +1,4 @@
-#<h2><b>Hotel Billing and Income Tracker</b></h2>
+<h2><b>Hotel Billing and Income Tracker</b></h2>
        
 
 
