@@ -7,10 +7,10 @@ Hotel billing system is created to capture the bill record of customers to come 
 
 
 <br><img src="https://github.com/GPAMBD/Hotel-Billing-and-Income-tracker/blob/main/icon/image.png"></img></br>
-
-&nbsp; •Billing System
-<br> &nbsp;  •Income Tracker</br>
- <h3><br>➢Billing System</br> </h3>
+<br>It has provided two Interfaces</br>
+&nbsp; • Billing System
+<br> &nbsp;  • Income Tracker</br>
+ <h3><br>➢ Billing System</br> </h3>
   
 <br><img src="https://github.com/GPAMBD/Hotel-Billing-and-Income-tracker/blob/main/icon/img9.png"></img></br>
  
@@ -25,7 +25,7 @@ Hotel billing system is created to capture the bill record of customers to come 
 <br><img src="https://github.com/GPAMBD/Hotel-Billing-and-Income-tracker/blob/main/icon/img7.png"></img></br>
 A bill will be generated according to the order and details given by the customer providing a total amount that is to be paid.
 
- <h3><br>➢Income Tracker</br> </h3>
+ <h3><br>➢ Income Tracker</br> </h3>
 <br><img src="https://github.com/GPAMBD/Hotel-Billing-and-Income-tracker/blob/main/icon/img5.png"></img></br>
 <br>The income tracker will give output of the total income that is made on a selected date.</br>
  <br> &nbsp; -By clicking on 'Select' Button the income made on the selected date will be displayed</br>
