@@ -28,7 +28,7 @@ A bill will be generated according to the order and details given by the custome
  <h3><br>➢ Income Tracker</br> </h3>
 <br><img src="https://github.com/GPAMBD/Hotel-Billing-and-Income-tracker/blob/main/icon/img5.png"></img></br>
 <br>The income tracker will give output of the total income that is made on a selected date.</br>
- <br> &nbsp; -By clicking on 'Select' Button the income made on the selected date will be displayed</br>
+ <br> &nbsp; -By clicking on 'Submit' Button the income made on the selected date will be displayed</br>
  &nbsp; -By clicking on the 'All record' button the income made till the date will be given as an output.
  <h2>Thank You!</h2>
 
